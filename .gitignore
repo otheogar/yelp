@@ -1,0 +1,11 @@
+
+#OS created
+.DS_Store
+.DS_Store?
+
+#compiled, archives
+*.class
+*.jar
+
+#json
+*.json
